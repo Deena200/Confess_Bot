@@ -1,7 +1,6 @@
 
 import os
 import asyncio
-
 TOKEN = os.getenv("BOT_TOKEN")
 
 async def main():
